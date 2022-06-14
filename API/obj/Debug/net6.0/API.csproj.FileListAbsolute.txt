@@ -56,3 +56,6 @@
 /Users/willardjansen/skinet/API/bin/Debug/net6.0/Infrastructure.dll
 /Users/willardjansen/skinet/API/bin/Debug/net6.0/Infrastructure.pdb
 /Users/willardjansen/skinet/API/bin/Debug/net6.0/Core.pdb
+/Users/willardjansen/skinet/API/bin/Debug/net6.0/AutoMapper.dll
+/Users/willardjansen/skinet/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/willardjansen/skinet/API/bin/Debug/net6.0/API.staticwebassets.runtime.json
